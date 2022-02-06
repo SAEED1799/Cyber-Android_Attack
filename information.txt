@@ -1,0 +1,31 @@
+
+BSSID: 02:00:00:00:00:00
+network ID: -1
+IP: 268566538
+ssid:<unknown ssid>
+SSID is hidden:true
+data about the phone:
+
+OSVERSION:5.4.61-android11-2-00094-gd61ede24cbb2-ab7064445
+RELEASE:11
+DEVICE:generic_x86
+MODEL:Android SDK built for x86
+PRODUCT:sdk_phone_x86
+BRAND:Android
+DISPLAY:sdk_phone_x86-userdebug 11 RSR1.210210.001.A1 7193139 dev-keys
+CPU_ABI:x86
+CPU_ABI2armeabi-v7a
+UNKNOWNunknown
+HARDWARE:ranchu
+ID:RSR1.210210.001.A1
+MANUFACTURER:unknown
+SERIAL:unknown
+USER:android-build
+HOST:abfarm-east4-071
+
+
+
+google accounts:
+
+Account: saeed.esawi99@gmail.com
+Account: esawisaeed0@gmail.com
